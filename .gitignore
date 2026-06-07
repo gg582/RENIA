@@ -1,1 +1,3 @@
 renia.db*
+models/
+third_party/rwkv.cpp/
